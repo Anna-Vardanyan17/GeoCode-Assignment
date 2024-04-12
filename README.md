@@ -1,1 +1,1 @@
-Finding distances with Google maps. 
+Finding distances between countries with Google maps.
